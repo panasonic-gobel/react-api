@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react'
 import './App.css'
 import Recipe from './components/Recipe'
 
-
 const App = () => {
     const APP_ID = 'd7cdbd90'
     const APP_KEY = '7ab5074670cf57c35309138defe89185'
